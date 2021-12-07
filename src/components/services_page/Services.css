@@ -1,0 +1,30 @@
+.desc1{
+    position: absolute;
+    width: 500px;
+    height: 300px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 56px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #2D334A;
+}
+.desc2{
+    position: absolute;
+    width: 500px;
+    height: 300px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 56px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #2D334A;
+}

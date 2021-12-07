@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1AB",
+        "name": "Jaganathan T",
+        "role": "Managing Director",
+        "url": "https://ajeyainfosol.com/assets/images/aboutus/jagansir.jpg",
+        "description": "T. Jaganathan is a University First (Gold Medalist) Engineer with Business Administration Diploma. Has held key corporate positions for 18 years. Specifically, he built up the Total India Networking Infrastructure for ANZ Grindlays Bank (currently Standard Chartered Bank). He was part of the Senior Management Team that set up world Class 350-seater BPO Center in Mumbai for EFunds International. He had handled technology migration for key outsourcing projects like West Teleservices, AMEX, etc."
+    },
+    {
+        "id": "2CD",
+        "name": "Pradeep",
+        "role": "Product Manager",
+        "url": "https://ajeyainfosol.com/assets/images/aboutus/ajpradeep.png",
+        "description": "T. Jaganathan is a University First (Gold Medalist) Engineer with Business Administration Diploma. Has held key corporate positions for 18 years. Specifically, he built up the Total India Networking Infrastructure for ANZ Grindlays Bank (currently Standard Chartered Bank). He was part of the Senior Management Team that set up world Class 350-seater BPO Center in Mumbai for EFunds International. He had handled technology migration for key outsourcing projects like West Teleservices, AMEX, etcPradeep v. Nair (Product Manager) has experience of 9+ years in IT industry. He managed major Telephony Integration projects, Pre Sales, Implementation, Post Installation technical support and all revenue opportunities for leading companies Shriram Finance, Indian red Cross Etc.."
+    },
+    {
+        "id": "3EF",
+        "name": "Santhiya G",
+        "role": "Senior Developer",
+        "url": "https://ajeyainfosol.com/assets/images/aboutus/ajsanthiya.png",
+        "description": "Santhiya.G (Senior Developer) has experience of 3+ years in IT industry. Created innovative software products in the areas of Service Management and Sales Management. ispark crm is the Service Management Software is a web-based enterprise solutions covering modules namely ticket Management, department Management and other service management related modules."
+    },
+    {
+        "id": "4GH",
+        "name": "Veera",
+        "role": "Senior Software Engineer",
+        "url": "https://ajeyainfosol.com/assets/images/aboutus/ajveera.jpg",
+        "description": "Veeraiyan.P(Senior Software Engineer) has experience of 4+ years in IT industry. Created innovative software products in the areas of HRMS, Service Management and Sales Management. Expertise in API Integration & social media Integration. And also having experience in manual Testing."
+    },
+    {
+        "id": "5IJ",
+        "name": "Manikandan B",
+        "role": "UI/UX Developer",
+        "url": "https://ajeyainfosol.com/assets/images/aboutus/ajmani.png",
+        "description": "Manikandan.B (UI/UX Developer) has experience of 3+ years in IT industry. Created innovative websites for various Business requirements. Expertise in making Social Media Promotional Posters and Digital Marketing Advertisement Posters."
+    },
+    {
+        "id": "6KL",
+        "name": "Rohith R",
+        "role": "Junior Software Developer",
+        "url": "https://ajeyainfosol.com/assets/images/aboutus/ajrohith.jpg",
+        "description": "Rohith.R (Junior Developer) has completed his final year project(M.sc Project- Loyola College) in our company. Based on the quick learning during the training period he will be selected as a junior developer."
+    }
+]

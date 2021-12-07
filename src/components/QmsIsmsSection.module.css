@@ -1,0 +1,20 @@
+.qms_isms_section p{
+    font-size: 1.5rem;
+    padding-top: 3rem;
+}
+
+.qms_isms_section h1{
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.qms_isms_section{
+    color: #272343;
+    padding-bottom: 2rem;
+}
+
+.qms_isms_section img{
+    height: 25rem;
+    padding-bottom: 3rem;
+}

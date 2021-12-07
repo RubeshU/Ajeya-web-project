@@ -1,0 +1,23 @@
+.jumbotron_section h1{
+    text-align: left;
+    margin-top: 10rem;
+}
+
+.jumbotron_section h4{
+    text-align: left;
+}
+
+.jumbotron_section button{
+    float: left;
+}
+
+
+.jumbotron_section img{
+    height: 30rem;
+}
+
+.jumbotron_section{
+    margin: 1em;
+    color: #272343;
+}
+
