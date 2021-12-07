@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Ajeya-web-project/static/css/main.5255f476.chunk.css",
+    "main.js": "/Ajeya-web-project/static/js/main.16f36696.chunk.js",
+    "main.js.map": "/Ajeya-web-project/static/js/main.16f36696.chunk.js.map",
+    "runtime-main.js": "/Ajeya-web-project/static/js/runtime-main.a95a1a5c.js",
+    "runtime-main.js.map": "/Ajeya-web-project/static/js/runtime-main.a95a1a5c.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Ajeya-web-project/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.dcb4245f.chunk.js": "/Ajeya-web-project/static/js/2.dcb4245f.chunk.js",
+    "static/js/2.dcb4245f.chunk.js.map": "/Ajeya-web-project/static/js/2.dcb4245f.chunk.js.map",
+    "static/js/3.c22ecd37.chunk.js": "/Ajeya-web-project/static/js/3.c22ecd37.chunk.js",
+    "static/js/3.c22ecd37.chunk.js.map": "/Ajeya-web-project/static/js/3.c22ecd37.chunk.js.map",
+    "index.html": "/Ajeya-web-project/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Ajeya-web-project/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.5255f476.chunk.css.map": "/Ajeya-web-project/static/css/main.5255f476.chunk.css.map",
+    "static/js/2.dcb4245f.chunk.js.LICENSE.txt": "/Ajeya-web-project/static/js/2.dcb4245f.chunk.js.LICENSE.txt",
+    "static/media/Cyber Security.c9b5b066.png": "/Ajeya-web-project/static/media/Cyber Security.c9b5b066.png",
+    "static/media/Digital marketing.761082ee.png": "/Ajeya-web-project/static/media/Digital marketing.761082ee.png",
+    "static/media/Infrastructure.253ffe15.png": "/Ajeya-web-project/static/media/Infrastructure.253ffe15.png",
+    "static/media/UX.f6e31d2b.png": "/Ajeya-web-project/static/media/UX.f6e31d2b.png",
+    "static/media/Web app dev.39e5175e.png": "/Ajeya-web-project/static/media/Web app dev.39e5175e.png",
+    "static/media/about-us-img.cfbd256e.png": "/Ajeya-web-project/static/media/about-us-img.cfbd256e.png",
+    "static/media/jumbo-img.370244c7.png": "/Ajeya-web-project/static/media/jumbo-img.370244c7.png",
+    "static/media/logo.1800e667.png": "/Ajeya-web-project/static/media/logo.1800e667.png",
+    "static/media/logo.43d1d393.png": "/Ajeya-web-project/static/media/logo.43d1d393.png",
+    "static/media/qms-isms-logo.fa11445b.png": "/Ajeya-web-project/static/media/qms-isms-logo.fa11445b.png",
+    "static/media/services.68db45b5.png": "/Ajeya-web-project/static/media/services.68db45b5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a95a1a5c.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.dcb4245f.chunk.js",
+    "static/css/main.5255f476.chunk.css",
+    "static/js/main.16f36696.chunk.js"
+  ]
+}
